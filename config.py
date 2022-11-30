@@ -3,8 +3,8 @@ from dotenv import load_dotenv
 from pyrogram import Client, filters
 from pytgcalls import PyTgCalls
 # للنشر المحلي
-if os.path.exists(".env"):
-    load_dotenv(".env")
+
+
 # الفارات
 API_ID = int(os.getenv("API_ID","17189115"))
 API_HASH = os.getenv("API_HASH", "ad6127f6f268f1570e71816fe8d4b337")
