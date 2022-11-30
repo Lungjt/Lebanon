@@ -6,7 +6,7 @@ from pytgcalls import PyTgCalls
 
 
 # الفارات
-API_ID = int("API_ID","17189115"))
+API_ID = ("API_ID","17189115"))
 API_HASH = ("API_HASH", "ad6127f6f268f1570e71816fe8d4b337")
 SESSION = ("SESSION", "BABb62y3Ho97oz_Dsc39zJx3NJ0HSCSu8qIRZwkapE8fKSh2jMqhcttGfjK4eciBva4JJOBfGjJEtGkqt9J0Qr1iaQ0f0S8E81RJzeYhzMenFHTdfH7896HoO5EwCLihEsGCR2hNGgzTsVfUJZzpSyMEG83o6gczQMUN426QUQUP-zsb5XVYOfigqwpgTgsjcmr3Clrvy1sbxLndua9gNTNWVxBkxB0qAjlRUOVaUVn-Ccfc2wViFqi-_cNfg5hJondZVgeoZm5cAsZFx1FuITKNmkrOAhtlHpGeeMR--0_aoWj6pAi0Y6OPRE4j1ON3gqLoJ6MoPhbAP71jWwDUk74WfaTslgA")
 HNDLR = ("HNDLR", "$")
